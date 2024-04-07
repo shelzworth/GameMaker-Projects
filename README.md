@@ -1,4 +1,4 @@
-# GameMaker-Porjects
+# GameMaker-Projects
 GameMaker Projects
 
 Sheldon Cerejo
